@@ -543,9 +543,6 @@ footer span a:hover {
     display: block;
     z-index: 999;
   }
-  /* .menu-btn i.active:before {
-    content: "\f00d";
-  } */
   .navbar .menu {
     position: fixed;
     height: 100vh;
@@ -596,20 +593,12 @@ footer span a:hover {
     width: calc(50% - 10px);
     margin-bottom: 20px;
   }
-  /* contact form removed */
-  /* .contact .contact-content .column {
-    width: 100%;
-    /* border: 1px solid; */
-  /* margin-bottom: 35px; */
-  /* } */
   */ .SkillsContent {
     grid-template-columns: 40% 40%;
   }
   .ProjectContainer {
     grid-template-columns: 100%;
   }
-
-  /* added after removing form for contacts section */
   @media (max-width: 750px) {
     .contact .contact-content .column {
       width: 100%;
