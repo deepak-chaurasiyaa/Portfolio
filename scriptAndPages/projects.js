@@ -71,7 +71,7 @@ projectsSection.innerHTML = `
                                 target="blank"><button>
                                     Github</button></a>
                             <a href="https://lybrate.herokuapp.com/" target="blank"><button>Demo</button></a>
-                            <a href="https://lybrate.herokuapp.com/" target="blank"><button>Blog</button></a>
+                            <a href="" target="blank"><button>Blog</button></a>
 
                         </div>
                     </div>
