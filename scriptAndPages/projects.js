@@ -77,6 +77,7 @@ projectsSection.innerHTML = `
                     </div>
                 </div>
             </div>
+            
 
 
 `;
