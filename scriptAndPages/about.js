@@ -10,10 +10,11 @@ about.innerHTML = `
                 </div>
                 <div class="column right">
                     <div class="text">I'm Deepak and I'm a <span class="typing-2"></span></div>
-                    <p>Aspiring Full StackWeb Developer, problem solver, and capable of writing efficient code using
-                        MERN Stack. Ambitious to work and collaborate with other dedicated developers.
+                    <p>A hard-working and goal-oriented Full-Stack Web Developer. Excellent team
+                    player, problem solver and continuous learner with the ability to find solutions. Looking forward
+                    to gain the highest learning possibilities in the career.
                         <br>
-                        Eager to take up a responsible role within an exciting and inspiring organization, and deliver
+                        Excited to take up a responsible role within an exciting and inspiring organization, and deliver
                         products that offer a great user experience.
                     </p>
                     <div class="mediaLinksAbout">
