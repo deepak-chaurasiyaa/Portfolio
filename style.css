@@ -76,7 +76,7 @@ section .title::after {
   bottom: -8px;
   left: 50%;
   font-size: 20px;
-  color: 	#b30000;
+  color: 	#f34141;
   padding: 0 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -294,6 +294,15 @@ section .title::after {
   font-family: "Ubuntu", "sans-sarif";
   font-size: 20px;
 }
+.SkillsContent > :hover{
+  color: #b30000;
+  background: none;
+  border-radius: 6px;
+    border: 2px solid #b30000;
+    transition: all 0.3s ease;
+    
+}
+
 .SkillsContent > div > p {
   margin-left: 10px;
 }
