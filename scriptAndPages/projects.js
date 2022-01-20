@@ -38,7 +38,7 @@ projectsSection.innerHTML = `
                 </div>
             </div>
             <!-- Discovery project -->
-<div style="border-top: none;" class="eachProjectDiv EVehicle">
+            <div style="border-top: none;" class="eachProjectDiv EVehicle">
                 <p class="ProjectName ">Discover Plus</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
@@ -93,7 +93,7 @@ projectsSection.innerHTML = `
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
-                        
+
                         <br>
                         <div class="techStackProject">
                             <p> <i class="fab fa-js-square"></i> JS </p>
