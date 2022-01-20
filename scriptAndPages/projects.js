@@ -37,6 +37,43 @@ projectsSection.innerHTML = `
                     </div>
                 </div>
             </div>
+            <!-- Discovery project -->
+<div style="border-top: none;" class="eachProjectDiv EVehicle">
+                <p class="ProjectName ">Discover Plus</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/discovery.png" alt="" />
+                    </div>
+                    <div class="projectDescription">
+                        <p>discovery plus website is to provide ad-free premium videos platform where user can access free and premium content and can enjoy watching the videos without having any advertisement hassle.</a></p>
+                       
+                        <br />
+                        <p>
+                            We a team of 4 have build Discovery Plus project in 5 days, where i have
+                            developed the "UPI Payment Page", "Creadit Card Payment Page" and "Voucher Pge" of the
+                            website.
+                        </p>
+                        <br>
+                        <u style="text-decoration: underline;">TechStack :- </u>
+                        <br>
+                        <br>
+                        <div class="techStackProject">
+                            <p><i class="fab fa-react"></i> React</p>
+                            <p><svg width="15" height="15" viewBox="0 0 256 208" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M15.624 35.012v87.53l15.058-8.471V43.482l-15.058-8.47z" fill="white"/><path d="M.565 114.07V8.66l89.411 50.823v17.883L15.624 35.012v87.53L.564 114.07z" fill="white"/><path d="M181.27 8.659V114.07l-60.235 33.882-15.059-9.412 60.236-33.882V34.07L89.976 77.365V59.482L181.271 8.66z" fill="white"/><path d="M166.212.188L90.918 42.541 15.624.188.564 8.658l89.412 50.824L181.271 8.66 166.21.189z" fill="white"/><path d="M151.153 42.541v53.647l15.059 8.47V34.072l-15.06 8.47z" fill="white"/><path d="M75.859 138.541l75.294-42.353 15.059 8.47-60.236 33.883 59.295 33.883 60.235-33.883 15.059 8.47-75.294 42.354-89.412-50.824z" fill="white"/><path d="M75.859 138.541v17.883l89.412 50.823v-17.882L75.859 138.54zM240.565 147.012V94.306l-15.06-8.47v52.705l15.06 8.47z" fill="white"/><path d="M165.27 189.365l75.295-42.353V94.306l15.059-8.47v70.588l-90.353 50.823v-17.882z" fill="white"/><path d="M255.624 85.835l-15.06 8.47-15.058-8.47 15.059-8.47 15.059 8.47z" fill="white"/><path d="M240.565 77.365V59.482l15.059-8.47v17.882l-15.06 8.47z" fill="white"/><path d="M240.565 59.482v17.883l-15.06-8.47V51.011l15.06 8.47z" fill="white"/><path d="M255.624 51.012l-15.06 8.47-15.058-8.47 15.059-8.47 15.059 8.47z" fill="white"/></svg> Material UI</p>
+                            <p> <i class="fab fa-node-js"></i> NodeJs</p>
+                            <p> <i class="fab fa-node-js"></i> ExpressJs</p>
+                            <p> <i class="fas fa-database"></i> MongoDb</p>
+                        </div>
+                        <div class="ProjectLinks">
+                            <a href="https://github.com/Utkarsh4970/Discoveryplus.in" target="blank"><button>
+                                    Github</button></a>
+                            <a href="https://discoveryplusclone-vishal-patil.vercel.app/" target="blank"><button>Demo</button></a>
+                            <a href="https://medium.com/@dchaurasiya8589/hello-everyone-f7ad89f86f40" target="blank"><button>Blog</button></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- lybrate project -->
             <div class="eachProjectDiv">
                 <p class="ProjectName">Lybrate Clone</p>
