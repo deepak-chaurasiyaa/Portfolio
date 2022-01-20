@@ -93,6 +93,7 @@ projectsSection.innerHTML = `
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
+                        
                         <br>
                         <div class="techStackProject">
                             <p> <i class="fab fa-js-square"></i> JS </p>
