@@ -116,6 +116,82 @@ projectsSection.innerHTML = `
                 </div>
             </div>
             
+            <!-- Tic Tac Toe project -->
+            <div class="eachProjectDiv">
+                <p class="ProjectName">Lybrate Clone</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/tic-tac-toe.png" alt="" />
+                    </div>
+                    <div class="projectDescription">
+                        <p>Tic-Tac-Toe is a traditional game where two player can play and expand some time together</p>
+                        <p>This game is designed and developed by using react </p>
+                        <br />
+                        <p> 
+                        </p>
+                        <br>
+                        <u style="text-decoration: underline;">TechStack :- </u>
+                        <br>
+
+                        <br>
+                        <div class="techStackProject">
+                            <p> <i class="fab fa-js-square"></i> JS </p>
+                            
+                            <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                          
+                            <p> <i class="fab fa-react"></i> React</p>
+                          
+                        </div>
+                        <div class="ProjectLinks">
+                            <a href="https://github.com/deepak-chaurasiyaa/Tic-Tac-Toe-Game"
+                                target="blank"><button>
+                                    Github</button></a>
+                            <a href="https://focused-ramanujan-3f26e8.netlify.app/" target="blank"><button>Demo</button></a>
+                            <a "https://medium.com/@dchaurasiya8589/building-the-clone-of-lybrate-com-website-58a77fc45a7d" target="blank"><button>Blog</button></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Recipe Searching project -->
+            <div class="eachProjectDiv">
+                <p class="ProjectName">Recipe Searching Mini Project</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/recpie.png" alt="" />
+                    </div>
+                    <div class="projectDescription">
+                        <p>Recipe Searching Website was a mini project through this project I was learning making API call. </p>
+                        <p>This peoject is designed using HTML, CSS and JavaScript</p>
+                        <br />
+                        <p> 
+                        </p>
+                        <br>
+                        <u style="text-decoration: underline;">TechStack :- </u>
+                        <br>
+
+                        <br>
+                        <div class="techStackProject">
+                            <p> <i class="fab fa-js-square"></i> JavaScript </p>
+                            
+                            <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                          
+                        </div>
+                        <div class="ProjectLinks">
+                            <a href="https://github.com/deepak-chaurasiyaa/search-recepie"
+                                target="blank"><button>
+                                    Github</button></a>
+                            <a href="https://condescending-jackson-8f0172.netlify.app/" target="blank"><button>Demo</button></a>
+                            <a "https://medium.com/@dchaurasiya8589/building-the-clone-of-lybrate-com-website-58a77fc45a7d" target="blank"><button>Blog</button></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
 
 
 `;
