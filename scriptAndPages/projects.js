@@ -118,7 +118,7 @@ projectsSection.innerHTML = `
             
             <!-- Tic Tac Toe project -->
             <div class="eachProjectDiv">
-                <p class="ProjectName">Lybrate Clone</p>
+                <p class="ProjectName">Tic-Tac-Toe</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
                         <img src="./images/tic-tac-toe.png" alt="" />
