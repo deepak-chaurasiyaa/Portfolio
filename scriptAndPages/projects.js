@@ -30,7 +30,7 @@ projectsSection.innerHTML = `
                         <div class="ProjectLinks">
                             <a href="https://github.com/deepak-chaurasiyaa/ev-front-end-react-app" target="blank"><button>
                                     Github</button></a>
-                            <a href="https://ev-management-app.herokuapp.com/" target="blank"><button>Demo</button></a>
+                            <a href="https://evmanagement-shashank0194.vercel.app/" target="blank"><button>Demo</button></a>
                             <a href="https://medium.com/@dchaurasiya8589/hello-readers-this-is-deepak-from-team-electric-908c2b43deab/" target="blank"><button>Blog</button></a>
 
                         </div>
